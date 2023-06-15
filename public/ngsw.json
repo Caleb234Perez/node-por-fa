@@ -1,0 +1,137 @@
+{
+  "configVersion": 1,
+  "timestamp": 1686846400442,
+  "index": "/index.html",
+  "assetGroups": [
+    {
+      "name": "app",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "/119.7ee1d55ddc00e7c9.js",
+        "/227.083391a42c13526a.js",
+        "/234.8672e9016378dd58.js",
+        "/466.df6a992aa7da4ebc.js",
+        "/565.26cc458cfb566810.js",
+        "/576.0212380b49ad9fb5.js",
+        "/644.8cf158b9f84b3d1c.js",
+        "/68.b4e96cfc7aa16887.js",
+        "/689.b247cbba0eca05cc.js",
+        "/849.26c68055e9c73538.js",
+        "/985.82737ff845e116ca.js",
+        "/999.ea7b424e7dddf737.js",
+        "/favicon.ico",
+        "/index.html",
+        "/main.803b939c70a6b4cf.js",
+        "/manifest.webmanifest",
+        "/polyfills.6f6b7da001b7cced.js",
+        "/runtime.d72d485b41e2bc0b.js",
+        "/scripts.81cfaa39db283f26.js",
+        "/styles.5101f48bb5b1d4d7.css"
+      ],
+      "patterns": []
+    },
+    {
+      "name": "assets",
+      "installMode": "lazy",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "/assets/caleb1.jpeg",
+        "/assets/cartadeamor.jpeg",
+        "/assets/cvm.jpg",
+        "/assets/ethienne1.jpeg",
+        "/assets/frank1.jpeg",
+        "/assets/gerardo1.jpg",
+        "/assets/hc.jpg",
+        "/assets/icons/icon-128x128.png",
+        "/assets/icons/icon-144x144.png",
+        "/assets/icons/icon-152x152.png",
+        "/assets/icons/icon-192x192.png",
+        "/assets/icons/icon-384x384.png",
+        "/assets/icons/icon-512x512.png",
+        "/assets/icons/icon-72x72.png",
+        "/assets/icons/icon-96x96.png",
+        "/assets/joaquin1.jpg",
+        "/assets/login.png",
+        "/assets/logo4.png",
+        "/assets/pc.jpg",
+        "/assets/pv.jpg",
+        "/assets/sala2.jpg",
+        "/assets/vc.jpg",
+        "/sala2.7a2da89fedbafa8c.jpg"
+      ],
+      "patterns": []
+    }
+  ],
+  "dataGroups": [],
+  "hashTable": {
+    "/119.7ee1d55ddc00e7c9.js": "4d2039da7dd4acb9c67022f68577f6e98bf6f56d",
+    "/227.083391a42c13526a.js": "0ef8acacedce48bbe1b58fe5fdd40e1e3393c02d",
+    "/234.8672e9016378dd58.js": "53ed014be830b537f17fe83fd05ecf3296392003",
+    "/466.df6a992aa7da4ebc.js": "c3dbab29244a1a7ebaef87281c253126bc1ce4b4",
+    "/565.26cc458cfb566810.js": "2d6291eb1191e24b2da279610e88d2170f85daf8",
+    "/576.0212380b49ad9fb5.js": "3f8112ff69c699e0091ee54f19e4eb355a603fcf",
+    "/644.8cf158b9f84b3d1c.js": "a9e4ea26b6a0e9eb93181f2a0642a646c6f9305f",
+    "/68.b4e96cfc7aa16887.js": "af408d0bb42e7e2ec4ec47266ddd78c469403c69",
+    "/689.b247cbba0eca05cc.js": "16b6ef213733e2e27aef7c471a3930633a8614ee",
+    "/849.26c68055e9c73538.js": "2f9db24510f465b19c3c2437dc81e2f6f285bf35",
+    "/985.82737ff845e116ca.js": "26a3fea20c4200089e3ae4fcb9a7f124f147ac13",
+    "/999.ea7b424e7dddf737.js": "116b3765430809d1d3f49bf26df1523a361caff5",
+    "/assets/caleb1.jpeg": "beb9044367211cee80029d80d46b58a0c4695735",
+    "/assets/cartadeamor.jpeg": "d8bcbfac3a4f0608c0fc3d23b914c6b7fb4190c4",
+    "/assets/cvm.jpg": "8b898bfcf9e5ed187d40fde415f42d3b46d7e368",
+    "/assets/ethienne1.jpeg": "4f56574dde982d974a3ee7a42ffe2b9b082f25ba",
+    "/assets/frank1.jpeg": "77f404162f81f2b35f9032a5573fb981b815a816",
+    "/assets/gerardo1.jpg": "c7c75882a33140d3d41da564fe529eb504688201",
+    "/assets/hc.jpg": "9351ba4d563534184f592b37ad28b092fc617a6d",
+    "/assets/icons/icon-128x128.png": "82407e9d8b847e54d388f5e48e2a06720d324873",
+    "/assets/icons/icon-144x144.png": "b54c323f7b2a694b1e65147efe7456446ffa6d94",
+    "/assets/icons/icon-152x152.png": "288dfbcd89e13fc82d32c4ec947d0ebc42a0f663",
+    "/assets/icons/icon-192x192.png": "0b3e86463a5d88a8829d1c5d38d25b2708e6fd66",
+    "/assets/icons/icon-384x384.png": "0400cc06efdcd42eb1d63210727cf2ccab3959e0",
+    "/assets/icons/icon-512x512.png": "ba23d0e61c407dd237f6e1ffab84cf9cd415d95e",
+    "/assets/icons/icon-72x72.png": "6fe49198d34bd8d7b54a544ddfaf734fc889a5a8",
+    "/assets/icons/icon-96x96.png": "c329777a088b496edeacf7ac46dbe1bf988805de",
+    "/assets/joaquin1.jpg": "0764d5e871a68f79a64e8ea1d01a1ce2c80620c6",
+    "/assets/login.png": "84f1c784e20d1f08e51e1ff5e931bcc90bffe91d",
+    "/assets/logo4.png": "a7372ec4b41fba1463c862408f9f8de28498a737",
+    "/assets/pc.jpg": "fbfdede95837851f70dd84f27a49821f8aab2f9d",
+    "/assets/pv.jpg": "7c69497d08b1f4f125c8bb5a2b03b09337c9631e",
+    "/assets/sala2.jpg": "40c80013ad88c81e750b7e3910cd2cceee30d0cb",
+    "/assets/vc.jpg": "01338d3b8f88597940147f253b607c42d11e3d26",
+    "/favicon.ico": "6003f537a13598da889540cccdaa0291b7ce971a",
+    "/index.html": "67bbbc594fd0ac42ac4474a9da08b6d7d9ca5c18",
+    "/main.803b939c70a6b4cf.js": "6102e729cf8679bd5c8b993c952116db951acf54",
+    "/manifest.webmanifest": "a443f4efa666bcd0003f2c299ac4f19e2663be5e",
+    "/polyfills.6f6b7da001b7cced.js": "f2d719f48bffb4f1a8fac8a1b47a766dc1e9a57f",
+    "/runtime.d72d485b41e2bc0b.js": "1d9ae283e2d36fd4e6374f6de987a5e32e12de83",
+    "/sala2.7a2da89fedbafa8c.jpg": "40c80013ad88c81e750b7e3910cd2cceee30d0cb",
+    "/scripts.81cfaa39db283f26.js": "cc8631c602bdc6e2bffc80b318384a1bc5fb7b86",
+    "/styles.5101f48bb5b1d4d7.css": "70505ba4abefb17b427f18589f47b9fc5ec801cd"
+  },
+  "navigationUrls": [
+    {
+      "positive": true,
+      "regex": "^\\/.*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*\\.[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*\\/.*$"
+    }
+  ],
+  "navigationRequestStrategy": "performance"
+}
